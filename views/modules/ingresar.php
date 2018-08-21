@@ -1,7 +1,7 @@
 <!--INGRESAR-->
 <div class="login-box">
         <div class="login-logo">
-            <a href="#"><b>Inventarios</b></a>
+            <a href="#"><b>SICAR</b></a>
         </div>
         <!-- /.login-logo -->
         <div class="card">
